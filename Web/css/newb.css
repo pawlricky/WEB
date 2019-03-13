@@ -1,0 +1,9 @@
+.bgimage{
+	background-image: url("../img/images (1).png");
+	background-position: center center;
+	background-size: cover;
+	height: 200px;
+}
+.service section{
+	text-align: center;
+}
